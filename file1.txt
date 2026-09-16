@@ -1,1 +1,15 @@
-i"Este é o exemplo de um ficheiro de texto file1"
+i"Eliminei a primeira linha e escrevi esta:"
+
+
+
+
+
+
+
+
+
+
+
+
+
+i Fiz uma alteração do ficheiro
